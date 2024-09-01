@@ -4,8 +4,10 @@
 ## Service Architecture
 ![image](https://github.com/user-attachments/assets/6374ff4b-6f1a-48a0-82e3-2d363dfdc18d)
 ## ERD
-## React
+## React - FrontEnd
 - repo https://github.com/Jomsang/study-project-react
+## Spring boot - BackEnd
+- repo https://github.com/Jomsang/System-based-on-log-analysis_BackEnd_intellj
 ## 가구추천 AI모델
 - repop https://github.com/gofmsldks/System-based-on-log-analysis_AI
 ## 가구추천 AI모델-Python 데모
